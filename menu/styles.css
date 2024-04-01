@@ -1,0 +1,45 @@
+.body {
+  background-color: #f0f0f0;
+}
+
+.logo-text {
+  font-size: 32px;
+}
+
+.card
+{
+  width: 70%;
+}
+
+.card-header
+{
+  background-color: #f0f0f0;
+  font-size: 28px;
+}
+
+.row {
+  width: 35%;
+  float: left;
+}
+
+.second-row {
+  float: right;
+  margin-right: 30px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item-name {
+  padding-left: 30px;
+}
+
+.item-price {
+  font-size: 18px;
+}
+
+.item-name, .item-price {
+  margin: 1rem 0;
+}
